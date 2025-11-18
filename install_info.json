@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-11-17 13:17:17",
+  "python_version": "3.12.0",
+  "system": "Windows",
+  "packages": {
+    "numpy": "1.26.4",
+    "protobuf": "4.25.3",
+    "opencv-python": "4.9.0.80 or 4.11.0.86",
+    "mediapipe": "0.10.21 (для Python 3.12+) или 0.10.14 (для Python 3.8-3.11)",
+    "Pillow": "12.0.0",
+    "pyinstaller": "6.16.0"
+  }
+}
